@@ -4,7 +4,7 @@
  *
  * Aluno: Bruno Matheus Garutti Pinto  * RA: 10736747
  * Aluno: Gabrieli Souza Santos   * RA: 10732702
- * Aluno: Stella Faria Viera  * RA: 10732983
+ * Aluno: Stella Farias Viera  * RA: 10732983
  *
  */
 
