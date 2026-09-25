@@ -3,7 +3,7 @@
 ![C](https://img.shields.io/badge/language-C-blue.svg)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)
 
-Exercício Programa da disciplina **Algoritmos e Lógica de Programação**
+Exercício Programa da disciplina **Projeto e Analise de Algoritimo**
 Prof. Antonio Luiz Basile — Universidade Presbiteriana Mackenzie
 
 ## 👥 Grupo
