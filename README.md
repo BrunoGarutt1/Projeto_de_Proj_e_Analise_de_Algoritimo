@@ -12,7 +12,7 @@ Prof. Antonio Luiz Basile — Universidade Presbiteriana Mackenzie
 |------|----|
 | `Bruno Matheus Garutti Pinto` | `10736747` |
 | `Gabrieli Souza Santos` | `10732702` |
-| `Stella Faria Viera` | `10732983` |
+| `Stella Farias Viera` | `10732983` |
 
 
 ## 📋 Sobre o projeto
