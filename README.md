@@ -25,22 +25,6 @@ arquivos para entrada ou saída).
 | [`ex2.c`](./ex2.c) | `ex2` | Descompacta o formato gerado pelo `ex1` |
 | [`ex3.c`](./ex3.c) | `ex3` | Compacta **padrões (substrings) repetidos**, não só caracteres únicos |
 
-## 🔧 Compilação
-
-Cada exercício é independente e compila separadamente:
-
-```bash
-gcc -Wall -o ex1 ex1.c
-gcc -Wall -o ex2 ex2.c
-gcc -Wall -o ex3 ex3.c
-```
-
-Ou, se preferir compilar tudo de uma vez:
-
-```bash
-for f in ex1 ex2 ex3; do gcc -Wall -o "$f" "$f.c"; done
-```
-
 ## ▶️ Uso e exemplos
 
 ### Exercício 1 — `ex1`
